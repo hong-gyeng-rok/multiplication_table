@@ -1,0 +1,52 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.box{
+    background-color: #c4ced6;
+    width: 300px;
+    height: 450px;
+    margin-top: 30px;
+}
+
+h1{
+    width: 300px;
+    height: 40px;
+    background-color: #be3455;
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+form{
+    width: 300px;
+    height: 50px;
+    background-color: #d4cacd;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.value{
+    width: 50px;
+    height: 22px;
+    outline: none;
+    margin-right: 0px;
+}
+
+.submit{
+    width: 50px;
+    height: 30px;
+    margin-left: 0px;
+}
+
+#gugudan{
+    width: 300px;
+    /* background-color: blue; */
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
